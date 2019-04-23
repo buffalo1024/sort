@@ -17,4 +17,5 @@ func main() {
    bubbleSort(a)
    selectionSort(a)
    insertionSort(a)
+   ShellSort(a)
 }
